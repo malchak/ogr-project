@@ -88,5 +88,16 @@ div.intro p {
 	height: 650px;
 }
 
+.about-container {
+	width: 100%;
+	height: 650px;
+	background-color: #1E1E20;
+}
+
+.contact-container {
+	width: 100%;
+	height: 650px;
+}
+
 
 
